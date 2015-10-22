@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2015-10-21 21:08:59
+  workout: MyString
+  mood: MyString
+  legth: MyString
+
+two:
+  date: 2015-10-21 21:08:59
+  workout: MyString
+  mood: MyString
+  legth: MyString
